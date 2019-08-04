@@ -11,4 +11,4 @@ This was apart of live stream one on my youtube channel, an example for making y
 2. windows 64-bit
 3. Visual Studio 2019 64-bit
 
-Link To Live Stream On Youtube to making this: (https://www.youtube.com/watch?v=MVLDj3g4qkc)[Youtube Video Link]
+Link To Live Stream On Youtube to making this: [Youtube Video Link](https://www.youtube.com/watch?v=MVLDj3g4qkc)
