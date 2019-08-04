@@ -1,0 +1,16 @@
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\liveStreamOne.exe.config
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\liveStreamOne.exe
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\liveStreamOne.pdb
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\obj\Debug\liveStreamOne.csprojAssemblyReference.cache
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\obj\Debug\liveStreamOne.csproj.CoreCompileInputs.cache
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\obj\Debug\liveStreamOne.exe
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\obj\Debug\liveStreamOne.pdb
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\lua53.dll
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\liblua53.dylib
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\x86\lua53.dll
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\x64\lua53.dll
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\x64\liblua53.so
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\KeraLua.dll
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\NLua.dll
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\bin\Debug\KeraLua.xml
+C:\Users\Sovr6\source\repos\liveStreamOne\liveStreamOne\obj\Debug\liveStreamOne.csproj.CopyComplete
